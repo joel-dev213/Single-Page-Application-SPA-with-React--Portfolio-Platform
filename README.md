@@ -24,7 +24,7 @@ npm --version
 
 ## Process on how you can get to Setup
 
-1. git clone the repository to your terminal to get access to the Directory.
+1. git clone git@github.com:joel-dev213/Single-Page-Application-SPA-with-React--Portfolio-Platform.git ,,the repository to your terminal to get access to the Directory.
 
 2. Navigate to the project directory:
 
