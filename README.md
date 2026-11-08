@@ -10,7 +10,7 @@ A single-page React application for showcasing software projects that I have bee
 - **Tailwind CSS 4** (via `@tailwindcss/vite`) — styling
 - **ESLint 9** — linting (React, hooks, and refresh rules)
 
-## Prerequisites so as to run  the proggrame on you terminal
+## Prerequisites so as to run  the programme on you terminal
 
 - Node.js (required by Vite 8)
 - npm(or a compatible package manager)
