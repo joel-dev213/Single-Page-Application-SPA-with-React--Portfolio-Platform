@@ -46,13 +46,6 @@ npm --version
 
 5. Open the URL printed in the terminal (usually <http://localhost:5173>) in your browser.
 
-## Available Scripts
-
-| Command | Description |
-| --- | --- |
-| `npm run dev` | Start the Vite dev server with hot module replacement |
-| `npm run lint` | Run ESLint across the project |
-
 
 ## Usage
 
